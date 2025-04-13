@@ -35,7 +35,7 @@ The database includes the following core tables:
 
 Below is the ER diagram showing the relationships between tables:
 
-![Bookstore ER Diagram](C:\Users\LOGAN\Downloads\Bd database.png)
+![Bookstore ER Diagram](Bd database.png)
 
 ## 🛠️ Tools Used
 
